@@ -1,0 +1,112 @@
+@media only screen and (max-width: 1175px) 
+{
+    .container
+    {
+        width: 100%;
+    }
+    .i_1 {
+        width: 33%;
+    }
+    .project1 {
+        width: 33%;
+    }
+    .team_members_img {
+        width: 587px;
+        float: none;
+        padding-top: 100px;
+        margin: auto;
+    }
+    .loc, .share, .about {
+        float: left;
+        width: 32%;
+    }
+    section {
+        width: 98%;
+        float: left;
+        margin-left: 1%;
+    }
+}
+@media only screen and (max-width: 767px) 
+{
+    .h_1
+    {
+        font-size: 25px;
+    }
+    .i_1 {
+        width: 50%;
+    }
+    .project1 {
+        width: 49%;
+    }
+    .loc, .share, .about {
+        width: 100%;
+    }
+
+    .c_1 {
+        width: 100%;
+        float: left;
+        /* background-image: url(img/bigimg.jpg); */
+        background-size: cover;
+        /* position: relative; */
+    }
+
+    .client .c_1 img {
+        width: 100%;
+        min-height: auto;
+        margin-top: 80px;
+    }
+
+    .client .c_2 {
+    width: 100%;
+    min-height: auto;
+    margin-top: 0px;
+    /* background-size: cover; */
+    padding-bottom: 50px;
+}
+
+
+}
+@media only screen and (max-width: 588px) 
+{
+    
+    /* .t_m_img {
+        width: 45%;
+        float: left;
+        margin: 2%;
+    } */
+
+    .btn{
+        width: 100%;
+    }
+
+    .client{
+        width:100%;
+    }
+
+    .question{
+        width: 100%;
+    }
+
+    .blue_bg{
+        width: 100%;
+    }
+
+    .loc, .share, .about {
+        width: 100%;
+    }
+
+    .copyright{
+        width: 100%;
+    }
+
+    .team_members_img {
+        width: 272px;
+    }
+
+    .t_m_img {
+        width: 100%;
+        float: left;
+    }
+
+}
+
